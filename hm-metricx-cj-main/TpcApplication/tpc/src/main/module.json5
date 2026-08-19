@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "tpc",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

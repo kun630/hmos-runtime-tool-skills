@@ -1,0 +1,47 @@
+[
+    {
+        "Name": "KOOM",
+        "License": "Apache License 2.0",
+        "License File": "LICENSE",
+        "Owner": ""
+        "Upstream URL": "https://github.com/KwaiAppTeam/KOOM",
+        "Version Number": "2.2.2",
+        "Description": "KOOM is an OOM killer on mobile platform by Kwai."
+    },
+    {
+        "Name": "xHook",
+        "License": "MIT License",
+        "License File": "LICENSE",
+        "Owner": ""
+        "Upstream URL": "https://github.com/iqiyi/xHook",
+        "Version Number": "1.2.0",
+        "Description": "A PLT hook library for Android native ELF."
+    },
+    {
+        "Name": "memory-leak-detector",
+        "License": "Apache License 2.0",
+        "License File": "LICENSE",
+        "Owner": ""
+        "Upstream URL": "https://github.com/bytedance/memory-leak-detector",
+        "Version Number": "0.2.1",
+        "Description": "A native memory leak monitoring tool."
+    },
+    {
+        "Name": "xDL",
+        "License": "MIT License",
+        "License File": "LICENSE",
+        "Owner": ""
+        "Upstream URL": "https://github.com/hexhacking/xDL",
+        "Version Number": "2.3.0",
+        "Description": "xDL is an enhanced implementation of the Android DL series functions."
+    },
+    {
+        "Name": "ByteHook",
+        "License": "MIT License",
+        "License File": "LICENSE",
+        "Owner": ""
+        "Upstream URL": "https://github.com/bytedance/bhook",
+        "Version Number": "1.1.1",
+        "Description": "ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64."
+    }
+]

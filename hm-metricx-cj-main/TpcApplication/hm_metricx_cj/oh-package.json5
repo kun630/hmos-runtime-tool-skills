@@ -1,0 +1,11 @@
+{
+  "name": "hm_metricx_cj",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "libhm_metricx_cj.so": "file:./src/main/cpp/types/libhm_metricx_cj"
+  }
+}

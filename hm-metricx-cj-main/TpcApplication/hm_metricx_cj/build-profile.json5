@@ -1,0 +1,23 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "arkOptions": {
+      "byteCodeHar": false
+    },
+    "cangjieOptions": {
+      "path": "./src/main/cangjie/cjpm.toml"
+    },
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      "arguments": "",
+      "cppFlags": "",
+    }
+  },
+  "buildOptionSet": [
+  ],
+  "targets": [
+    {
+      "name": "default"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "hm_metricx_cj",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libark_interop_loader.so": "file:./src/main/cangjie/loader",
+    "@cangjie/cjhybridview": "1.0.6",
+    "hm_metricx_cj": "file:../hm_metricx_cj"
+  }
+}
